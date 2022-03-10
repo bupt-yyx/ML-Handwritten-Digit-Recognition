@@ -1,9 +1,7 @@
 # ML-Handwritten-Digit-Recognition
 ## 基于pytorch的手写数字识别
 ### 简介
-> * 编写CNN神经网络
-> * 神经网络的训练
-> * 进行手写数字的预测
+> 将手写数字作为数据集，进行训练CNN神经网络，使用训练完成的神经网络进行手写数字的识别
 ### 结果
 >数据量-training loss图  
 >![plot of training loss](https://user-images.githubusercontent.com/92367250/157676923-00a3e8d1-7dbf-4f7c-af7b-34653baf16ca.png)  
